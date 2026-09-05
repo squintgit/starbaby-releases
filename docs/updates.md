@@ -1,5 +1,15 @@
 # starbaby Updates
 
+## 0.1.0 (174)
+
+The original native mini player no longer flashes during startup or page reloads.
+Its renderer is retained in source for an explicit rollback, but is disabled from
+launch. The web player is now the only mini-player presentation.
+
+With Starbaby web 0.4.311, the player stays visible beneath menus without accepting
+clicks through them. Metadata uses consistent year typography and muted em dashes.
+Playback, media keys, shuffle, and Show/Hide Mini Player remain unchanged.
+
 ## 0.1.0 (173)
 
 The mini player now shares Starbaby's web styling: a compact dark bar with
