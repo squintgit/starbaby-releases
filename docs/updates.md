@@ -1,7 +1,7 @@
 # starbaby Updates
 
-## 0.1.0 (209)
+## 0.1.0 (210)
 
-Improves first-time speaker connection while permissions are granted. Discards expired local audio packets instead of stopping all speakers during track transitions.
+Enable speaker routing before selecting outputs. Idle Enable does not capture or mute audio; choosing a speaker starts routing and the automatic lyric delay.
 
 Speaker-engine third-party licenses are included in the app. [Corresponding sources](https://github.com/squintgit/starbaby-releases/releases/tag/speaker-engine-11-sources).
