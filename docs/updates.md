@@ -1,7 +1,7 @@
 # starbaby Updates
 
-## 0.1.0 (211)
+## 0.1.0 (212)
 
-Enable speakers with none selected now mutes normal system output; disabling restores it. Fix AirPlay-only sessions stopping because of the local-output timeout. Lyric delay applies only while selected speakers are routing.
+Enter AirPlay codes while speaker routing is enabled. Live speaker changes now wait for connections to settle. Includes muted Enable with no outputs and the AirPlay-only timeout fix.
 
 Speaker-engine third-party licenses are included in the app. [Corresponding sources](https://github.com/squintgit/starbaby-releases/releases/tag/speaker-engine-11-sources).
