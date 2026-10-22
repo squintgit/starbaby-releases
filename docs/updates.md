@@ -1,7 +1,7 @@
 # starbaby Updates
 
-## 0.1.0 (215)
+## 0.1.0 (216)
 
-The title bar now dims with the same 30% black treatment as the page during refresh and restores its normal color when loading finishes. Immersive comic-reader chrome remains black.
+Page refresh now uses one shared fade for the title bar and page curtain. The title bar converges on the page background under the 30% black overlay, then restores its normal color with the same fade. Reduced Motion and immersive comic-reader chrome are preserved.
 
 Speaker-engine third-party licenses are included in the app. [Corresponding sources](https://github.com/squintgit/starbaby-releases/releases/tag/speaker-engine-11-sources).
